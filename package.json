@@ -15,6 +15,6 @@
     "node-fetch": "^2.6.1",
 
     "ramda": "^0.25.0",
-    "url-parse": "^1.4.3"
+    "url-parse": "^1.5.1"
   }
 }
